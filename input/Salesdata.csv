@@ -1,0 +1,29 @@
+﻿Region,Country,Item_Type,Sales_Channel,Order_Priority,Order_Date,Order_ID,Ship_Date,Units_Sold,Unit_Price,Unit_Cost
+Sub-Saharan Africa,South Africa,Fruits,Offline,M,27/07/12,443368995,28/07/12,1593,9.33,6.92
+Middle East and North Africa,Morocco,Clothes,Online,M,14/09/13,667593514,19/10/13,4611,109.28,35.84
+Australia and Oceania,Papua New Guinea,Meat,Offline,M,15/05/15,940995585,04/06/15,360,421.89,364.69
+Sub-Saharan Africa,Djibouti,Clothes,Offline,H,17/05/17,880811536,02/07/17,562,109.28,35.84
+Europe,Slovakia,Beverages,Offline,L,26/10/16,174590194,04/12/16,3973,47.45,31.79
+Asia,Sri Lanka,Fruits,Online,L,07/11/11,830192887,18/12/11,1379,9.33,6.92
+Sub-Saharan Africa,Seychelles ,Beverages,Online,M,18/01/13,425793445,16/02/13,597,47.45,31.79
+Sub-Saharan Africa,Tanzania,Beverages,Online,L,30/11/16,659878194,16/01/17,1476,47.45,31.79
+Sub-Saharan Africa,Ghana,Office Supplies,Online,L,23/03/17,601245963,15/04/17,896,651.21,524.96
+Sub-Saharan Africa,Tanzania,Cosmetics,Offline,L,23/05/16,739008080,24/05/16,7768,437.2,263.33
+Asia,Taiwan,Fruits,Offline,M,09/02/14,732588374,23/02/14,8034,9.33,6.92
+Middle East and North Africa,Algeria,Cosmetics,Online,M,18/02/11,761723172,24/02/11,9669,437.2,263.33
+Asia,Singapore,Snacks,Online,C,28/01/13,176461303,07/02/13,7676,152.58,97.44
+Australia and Oceania,Papua New Guinea,Clothes,Offline,L,20/06/11,647164094,14/07/11,9092,109.28,35.84
+Asia,Vietnam,Personal Care,Online,M,04/04/10,314505374,06/05/10,7984,81.73,56.67
+Sub-Saharan Africa,Uganda,Personal Care,Online,M,19/06/14,539471471,21/07/14,451,81.73,56.67
+Sub-Saharan Africa,Zimbabwe,Office Supplies,Offline,C,28/03/11,953361213,08/04/11,9623,651.21,524.96
+Sub-Saharan Africa,Ethiopia,Cosmetics,Online,M,07/07/11,807785928,25/07/11,662,437.2,263.33
+Europe,France,Cosmetics,Online,M,07/12/15,324669444,18/01/16,5758,437.2,263.33
+Central America and the Caribbean,The Bahamas,Personal Care,Online,C,19/01/11,246248090,21/02/11,9137,81.73,56.67
+Central America and the Caribbean,Haiti,Office Supplies,Online,C,31/12/10,485070693,31/01/11,2052,651.21,524.96
+Central America and the Caribbean,Nicaragua,Household,Online,C,28/10/15,573998582,07/12/15,7791,668.27,502.54
+Asia,Turkmenistan,Vegetables,Online,M,13/04/15,116205585,02/06/15,6670,154.06,90.93
+Europe,United Kingdom,Cosmetics,Online,L,01/05/15,135178029,16/05/15,1038,437.2,263.33
+Central America and the Caribbean,Dominican Republic,Baby Food,Offline,H,25/08/11,824714744,24/09/11,274,255.28,159.42
+Asia,China,Office Supplies,Online,M,10/02/16,198927056,29/03/16,5791,651.21,524.96
+Sub-Saharan Africa,Uganda,Cosmetics,Online,M,28/02/15,842238795,15/03/15,6031,437.2,263.33
+Middle East and North Africa,Kuwait,Household,Offline,C,13/06/11,459386289,21/07/11,1466,668.27,502.54
