@@ -1,5 +1,3 @@
 source=C:\Users\lharishkumar\Desktop\Assignment\Track3\input\Salesdata.csv
 stage=C:\Users\lharishkumar\Desktop\Assignment\Track3\out\staging.csv
-staging=C:/Program Files (x86)/TOS_DI-8.0.1/studio/workspace/staging.csv
 target=C:\Users\lharishkumar\Desktop\Assignment\Track3\out\target.csv
-targeting=C:/Program Files (x86)/TOS_DI-8.0.1/studio/workspace/targeting.csv
